@@ -1,4 +1,4 @@
-name: Python application test with Github Actions
+name: Python 3.8 - AWS - application test with Github Actions
 
 # Controls when the workflow will run
 on: [push]
