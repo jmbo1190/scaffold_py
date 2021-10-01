@@ -1,4 +1,4 @@
-name: Python application test with Github Actions - Azure with Python 3.5
+name: Python 3.5 - Azure - application test with Github Actions
 
 # Controls when the workflow will run
 on: [push]
